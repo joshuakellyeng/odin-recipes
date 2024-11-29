@@ -1,3 +1,10 @@
-This is a recipes list for the Odin Project.
+# Odin Recipes
 
-I used most of the elements I've been shown so far in this project like semantics using strong to bring attention to something or em to emphasize a particular subject. Will be updated once I get to the CSS portion of the course.
+The Odin Recipes projects is a simple demo of HTML best practices, project file structures and revising specific HTML elements such as:
+
+- h1 - h6: header tags
+- p: paragraph tags
+- ul: unordered tags
+- ol: ordered tags
+- li: list tags
+- a: anchor tags
